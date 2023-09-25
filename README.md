@@ -4,7 +4,7 @@ I am Tobin George Thomas, My passion is giving life to new ideas in the changing
 
 
 Skills:React, Html,CSS,Javascript,MongoDB,NextJs,ExpressJs,Restful API
-- 📫 How to reach me: tobing34@gmail.com 
+- 📫 How to reach me: tobing34@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tobing34)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobin-george-thomas-030510168/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.tobingeorgethomas.com)  
