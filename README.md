@@ -3,7 +3,7 @@
 I am Tobin George Thomas, My passion is giving life to new ideas in the changing world by coding. I really enjoying learning new languages and skills and update my self with the change happening around.
 
 
-Skills:React, Html,CSS,Javascript,MongoDB,NextJs,ExpressJs,Restful API
+Skills: Html,CSS,Javascript,React,MongoDB,NextJs,ExpressJs,Restful API
 - 📫 How to reach me: tobing34@gmail.com
 
 
